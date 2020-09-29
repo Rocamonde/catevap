@@ -7,6 +7,5 @@ policies on
 (Rocamonde, 2020).
 
 
-Feel free to suggest any changes, improvements or bug fixes to this project
-. It is licensed under
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Feel free to suggest any changes, improvements or bug fixes to this project. 
+It is licensed under GPLv3.
