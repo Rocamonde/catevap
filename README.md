@@ -3,7 +3,7 @@
 Catevap is a cellular automata traffic simulator for evaluating fully autonomous
 (traffic) policies. It has been built to test the proposed methodology and
 policies on  
-["A cellular automata model for fully autonomous traffic"](https://rocamonde.com/publications/ca-autonomous-traffic)
+"A cellular automata model for fully autonomous traffic"
 (Rocamonde, 2020).
 
 
