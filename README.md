@@ -1,8 +1,6 @@
 # Catevap
 
-Catevap is a cellular automata traffic simulator for evaluating fully autonomous
-(traffic) policies. It has been built to test the proposed methodology and
-policies for the Computational Physics project
+Catevap is a cellular automata traffic simulator for evaluating the effectiveness of a variety of policies for fully autonomous vehicles. It has been built for the Computational Physics project
 "A cellular automata model for fully autonomous traffic" as part of my B.Sc. in Theoretical Physics from University College London.
 
 
